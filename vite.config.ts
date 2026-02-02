@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     sourcemap: true,
   },
-  base: "/2-react-cafe/",
+  base: "/02-react-cafe/",
 });
